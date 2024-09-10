@@ -1,0 +1,7 @@
+1. Initially, display the first 20 todos. 
+2. On the top of the page, display the total number of loaded todos.
+3. Display a "Load More" button, and every time the user clicks on it, fetch and display 20 more todos.
+4. When the total number of loaded todos reaches 100, the "Load More" button should be hidden.
+5. Add a functionality to mark Item as completed.
+
+Use this endpoint URL to get the todos: https://dummyjson.com/todos?limit=20&skip=0.
